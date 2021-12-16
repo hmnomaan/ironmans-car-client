@@ -1,0 +1,12 @@
+.hero-section{
+    margin-top: 55px;
+    display: block;
+    position: relative;
+    background-image: url(/src/assets/images/banner/banner-2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 7.8rem;
+    padding-bottom: 16.8rem;
+    z-index: 10;
+    
+}
