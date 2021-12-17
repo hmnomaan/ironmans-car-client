@@ -37,8 +37,8 @@ const Banner = () => {
 
             </div>
             {/* what we promise */}
-            <div className='mt-4 promise-section row  mx-5 justify-content-center '>
-                <div className="container">
+            <div className='mt-4  row  mx-5 justify-content-center '>
+                <div className="container promise-section">
   <div className="row g-0 ">
     <div className="col ">
                             <div className="card bg-dark bg-opacity-10" >
