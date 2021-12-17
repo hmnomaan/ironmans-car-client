@@ -10,8 +10,8 @@ const Header = () => {
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-      <Link className="navbar-brand fw-bolder" to="/"><span className='text-danger '>IronMans</span>CAR</Link>
-      <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
+      <Link className="navbar-brand fw-bolder mx-5" to="/"><span className='text-danger '>IronMans</span>CAR</Link>
+      <ul className="navbar-nav ms-auto mb-2 mb-lg-0 mx-3">
         <li className="nav-item">
 <Link className="nav-link active" aria-current="page" to="/">Home</Link>
 </li>
@@ -29,7 +29,7 @@ const Header = () => {
           </li>
        
       </ul>
-      <form className="d-flex">
+      <form className="d-flex mx-5">
         <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
         <button className="btn btn-outline-success" type="submit">Search</button>
       </form>
